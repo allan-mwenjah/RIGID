@@ -1,0 +1,2 @@
+# RIGID
+first repository
